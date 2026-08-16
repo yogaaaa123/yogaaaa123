@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Halo, Saya Satria Yoga
+# 👋 Halo, Saya Satria Yoga Pratama
 
 **Full-Stack Software Engineer** — membangun aplikasi web & backend yang cepat, aman, dan terukur.
 
