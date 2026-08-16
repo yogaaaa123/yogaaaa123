@@ -42,17 +42,9 @@ Berikut beberapa proyek yang saya banggakan:
 | [**Bank API**](https://github.com/yogaaaa123/bank-api-portofolio) | REST API sistem perbankan | TypeScript |
 | [**UIKit Registry**](https://github.com/yogaaaa123/uikit-registry) | Registry 13 UI library + MCP server untuk AI | JavaScript |
 
-## 📊 Statistik GitHub
+## 🌱 Aktivitas
 
-<div align="center">
-
-![Satria's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogaaaa123&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogaaaa123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=yogaaaa123&theme=tokyonight&hide_border=true)
-
-</div>
+Konsisten belajar dan membangun — lihat contribution graph saya di profil ini untuk jejak aktivitas pengembangan saya setiap hari.
 
 ---
 
