@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satriayogapratamayoga@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=yogaaaa123&style=for-the-badge&color=blueviolet)](https://github.com/yogaaaa123)
+[![Profile Views](https://komarev.com/ghpvc/?username=yogaaaa123&base=581&style=for-the-badge&color=blueviolet)](https://github.com/yogaaaa123)
 
 </div>
 
