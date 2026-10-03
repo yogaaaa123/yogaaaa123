@@ -18,26 +18,6 @@ Full-Stack Engineer focused on building digital products end-to-end — **REST A
 
 > Good code is code that is easy to read, test, and maintain.
 
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | TypeScript, JavaScript, Go, Python |
-| **Backend** | Node.js, Express, Go, REST API |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Database** | PostgreSQL, MongoDB, MySQL |
-| **DevOps** | Docker, Git, CI/CD, Linux |
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Backend Z-Chat**](https://github.com/yogaaaa123/backend-zchat) | Real-time chat service API | Go, Docker |
-| [**E-Commerce Portfolio**](https://github.com/yogaaaa123/ecommerce-portofolio) | Full-featured online store | TypeScript, React |
-| [**Crack Backend**](https://github.com/yogaaaa123/crack-backend) | Backend for a full-stack app | TypeScript, Node.js |
-| [**Bank API**](https://github.com/yogaaaa123/bank-api-portofolio) | REST API for a banking system | TypeScript |
-| [**UIKit Registry**](https://github.com/yogaaaa123/uikit-registry) | Registry of 13 UI libraries + MCP server | JavaScript |
-
 ---
 
 <div align="center">
