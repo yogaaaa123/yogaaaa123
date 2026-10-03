@@ -86,17 +86,6 @@ Full-Stack Engineer focused on building digital products end-to-end. Experienced
 | [**Bank API**](https://github.com/yogaaaa123/bank-api-portofolio) | REST API for a banking system | TypeScript |
 | [**UIKit Registry**](https://github.com/yogaaaa123/uikit-registry) | Registry of 13 UI libraries + MCP server for AI | JavaScript |
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Satria's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogaaaa123&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogaaaa123&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117)
-
-</div>
-
-I keep learning and shipping — check the contribution graph on my profile for a daily trace of my development work.
 
 ## 🤝 Let's Connect
 
