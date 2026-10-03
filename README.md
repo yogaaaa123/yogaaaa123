@@ -25,28 +25,10 @@ Full-Stack Engineer focused on building digital products end-to-end. Experienced
 
 > I believe good code is code that is easy to read, easy to test, and easy to maintain.
 
-<table>
-  <tr>
-    <td>
-
-**🌱 Currently leveling up**
-Go & distributed systems
-
-**🔭 Looking for**
-Backend / full-stack roles
-
-    </td>
-    <td>
-
-**⚡ I automate boring things first**
-then build the rest
-
-**📫 Email**
-satriayogapratamayoga@gmail.com
-
-    </td>
-  </tr>
-</table>
+- 🌱 **Currently leveling up:** Go & distributed systems
+- 🔭 **Looking for:** Backend / full-stack roles
+- ⚡ **I automate boring things first,** then build the rest
+- 📫 **Email:** satriayogapratamayoga@gmail.com
 
 ## 🛠️ Tech Stack
 
