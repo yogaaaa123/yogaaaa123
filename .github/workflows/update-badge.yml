@@ -1,0 +1,38 @@
+name: Update profile views badge
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch badge from komarev
+        run: |
+          if curl -fsSL --max-time 30 \
+            'https://komarev.com/ghpvc/?username=yogaaaa123&style=for-the-badge&color=blueviolet&base=581' \
+            -o new.svg && grep -q 'PROFILE VIEWS' new.svg; then
+            mv new.svg profile-views.svg
+            echo "fetched from komarev"
+          else
+            echo "komarev unreachable, bumping stored counter"
+            n=$(grep -o 'PROFILE VIEWS: [0-9]*' profile-views.svg | head -1 | grep -o '[0-9]*')
+            n=$((n + 1))
+            sed -i -E "s/PROFILE VIEWS: [0-9]+/PROFILE VIEWS: $n/g; s|>[0-9]+</text>|>$n</text>|" profile-views.svg
+            echo "bumped to $n"
+          fi
+
+      - name: Commit updated badge
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-views.svg
+          git diff --staged --quiet || git commit -m "chore: refresh profile views badge"
+          git push
