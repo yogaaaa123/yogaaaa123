@@ -24,7 +24,3 @@ Outside of work you'll find me exploring **Go** and **distributed systems**, con
 > Good code is code that is easy to read, test, and maintain.
 
 ---
-
-<div align="center">
-  <sub>Made with ❤️ in Indonesia</sub>
-</div>
