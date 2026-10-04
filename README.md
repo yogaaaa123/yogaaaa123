@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Satria Yoga Pratama 👋
+# Hi there, I'm Satria Yoga Pratama 
 
 **Full-Stack Software Engineer** — building fast, secure, and scalable web & backend systems.
 
